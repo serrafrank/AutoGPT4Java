@@ -1,0 +1,7 @@
+{
+  "hello_world": "Hello World!",
+  "hello_param": "Hello ${name}!",
+  "key": {
+    "subKey": "It works!"
+  }
+}

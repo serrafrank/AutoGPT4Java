@@ -8,6 +8,7 @@ class AutoGPT4JavaApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
